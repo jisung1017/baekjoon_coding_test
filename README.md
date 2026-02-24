@@ -1,7 +1,9 @@
 ### 🖥️ 백준 문제풀이 저장소!
 
 알고리즘 별로 저장해놔서 공부하기~
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=010jisung)](https://solved.ac/010jisung)​
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={010jisung}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={010jisung}&theme=warm"/>

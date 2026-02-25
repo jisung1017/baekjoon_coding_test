@@ -4,6 +4,3 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=010jisung)](https://solved.ac/010jisung)​
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={010jisung}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={010jisung}&theme=warm"/>
